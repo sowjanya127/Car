@@ -6,6 +6,8 @@ public class Price {
 		// TODO Auto-generated method stub
 		int a=10;
 		int v=65;
+		
+		int n= 96;
 	}
 
 }
