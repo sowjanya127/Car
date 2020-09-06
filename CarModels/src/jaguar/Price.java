@@ -9,6 +9,7 @@ public class Price {
 		int c=20;
 		int d=30;
 		int m = 50;
+		int n =60;
 	}
 
 }
